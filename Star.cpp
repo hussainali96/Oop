@@ -1,7 +1,3 @@
-// ConsoleApplication61.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
 #include "iostream"
 using namespace std;
 
@@ -20,7 +16,6 @@ int main()
 			cout << " ";
 			cout << "*";
 		}
-
 		cout << endl;
 	}
 	for (int i = 1; i <=n; i++) 
@@ -33,12 +28,9 @@ int main()
 		{
 				cout << "*";
 				cout << " ";
-		}
-			
+		}	
 		cout << endl;
 	}
-
-	
     return 0;
 }
 
