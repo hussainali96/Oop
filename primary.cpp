@@ -1,7 +1,3 @@
-// ConsoleApplication60.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
 #include "iostream"
 using namespace std;          //Write program to read a value then check if this value is primary
 
